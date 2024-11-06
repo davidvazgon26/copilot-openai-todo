@@ -1,5 +1,7 @@
 # 🤖 copilot-openai-todo
 
+Video de muestra aquí: [link](https://info.microsoft.com/ww-thankyou-boost-dev-productivity-with-github-enterprise-and-copilot-video.html?LCID=ES&ocid=eml_pg442263_gdc_comm_mw)
+
 This project is an example Todo app implementation, that aims to showcase how to use [GitHub Copilot](https://copilot.github.com/) to build an AI-powered todo app using [Azure OpenAI](https://azure.microsoft.com/products/ai-services/openai-service) and [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/).
 
 **The completed application is located in the [completed branch](https://github.com/Azure-Samples/copilot-openai-todo/tree/completed).**
